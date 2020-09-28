@@ -1,5 +1,5 @@
 {
-  "name": "draft-playground",
+  "name": "draftjs-playground",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
