@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import RichText from "./RichText";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <RichText />
   </React.StrictMode>,
   document.getElementById("root")
 );
